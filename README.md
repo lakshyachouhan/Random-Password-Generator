@@ -1,1 +1,1 @@
-# Random-Password-Generator [LIVE}
+# Random-Password-Generator [LIVE]
